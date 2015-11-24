@@ -12,7 +12,7 @@ delete photos you don't want.
   
 To update donate slider:   
 go to donate-slider folder,   
-add jpeg photos named as their intended captions, with '-' convention 
+add jpeg photos named as their intended captions, with '-' convention, then
 delete photos you don't want  
 
 FEATURED BROTHER:  
