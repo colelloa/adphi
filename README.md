@@ -28,6 +28,7 @@ fix weird cropping issue with css/safari
 make events page look better - slider?   
 add contact us page  
 add philanthropy page  
+do something with pictures archive; maybe some sort of js picture selector.  
 
 NOTE:  
 any changes you make will not be live on official website - email me at agcolello@gmail.com when you make changes and i'll manually push them to the server
