@@ -1,4 +1,5 @@
-All permissions according to the MIT license.
+All permissions according to the the Artistic License 2.0  
+-aka please email me and send the changes you make. see note at bottom  
 
 PROGRAMMERS - see todo.txt to help me out, and the note at the bottom of this readme.  
    
