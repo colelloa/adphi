@@ -1,0 +1,8 @@
+slider images must be .jpg, and featured brother image must be .png - will fix this bug soon to make both read any images.    
+fix weird cropping issue with css/safari  
+improve index.php to look more regular  
+make events page look better - slider?   
+add accounts for webmaster@adphiunion.com, president@adphiunion.com, etc. for all eboard  
+add contact us page  
+add philanthropy page  
+do something with pictures archive; maybe some sort of js picture selector.  
