@@ -1,0 +1,417 @@
+html, body {
+    background-image: url('wood.jpg');
+    background-size:cover;
+    height:100%;
+    display:block;
+}
+a.newsletters-link {
+    color:#996515;
+    font-size:20pt;
+    text-decoration: underline;
+    font-weight:bold;
+}
+#content {
+    border-radius: 20px;
+    font-size: 10pt;
+    background-color:#3b713c;
+    display:table;
+    overflow-x:hidden;
+    overflow-y:scroll;
+    width: 80%;
+    max-width:1250px;
+    min-width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    border-collapse: collapse;</
+}
+#content::-webkit-scrollbar { 
+    display: none; 
+}
+div#content-container {
+    display:table-row;
+    width:100%;
+}
+footer {
+    display: table-row;
+    width:100%;
+    color: black;
+    text-align: right;
+    border-bottom-left-radius:20px;
+    border-bottom-right-radius:20px;
+    border:solid;
+    border-color:#996515;
+    border-width: 2px;
+    background-color: #E5E5FF;
+}
+/*header*/
+header {
+    display: table-row;
+    vertical-align:center;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    min-height: 230px;
+    background-image: url('background-banner.png');
+    background-size: cover;
+    margin-bottom:0;
+    padding-bottom:0;
+    max-height:400px;
+}
+img.header-pic {
+    max-height:300px;
+}
+td.header-data {
+    border:none;
+}
+/*navbar*/
+div#nav-wrapper {
+    display:table-row;
+    vertical-align:center;
+    width:100%;
+    margin-top:0;
+    padding-top:0;
+    margin-bottom:0;
+    padding-bottom:0;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color:#996515;
+    font-weight:600;
+    font-size:20;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+    color:#E8B059;
+}
+.navbar, .navbar-inverse, .container-fluid {
+    border-color:#996515;
+    border-bottom-left-radius:2px;
+    border-bottom-right-radius:2px;
+    border-top-left-radius:2px;
+    border-top-right-radius:2px;
+    background-color: #E5E5FF;
+    margin-bottom:0;
+    border-bottom-width:0;
+}
+.navbar-inverse .navbar-nav>li>a:focus {
+    color:#E8B059;
+}
+.open .dropdown-menu>li>a {
+    background-color: #E5E5FF;
+    color:#996515;
+}
+.open .dropdown-menu>li>a:hover {
+    color:#E8B059;
+}
+
+.open .dropdown-menu {
+    background-color: #E5E5FF;
+    border-color:#996515;
+}
+
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover {
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>.open>a:hover,
+.navbar-inverse .navbar-nav>.open>a:focus{
+    color:#E8B059;
+}
+.navbar-nav>li, {
+    background-color: transparent;
+}
+.navbar-inverse .navbar-brand {
+    color:#1B1B1B;
+    font-weight:600;
+}
+.navbar-inverse .navbar-brand:hover {
+    color:#6C6C6C;
+}
+
+/*generic slider*/
+.carousel-indicators {
+  top:0px;
+  clear:both;
+}
+.carousel-inner > .item > img{
+    max-height:600px;
+    float:none;
+    margin-right:auto;
+    margin-left:auto;
+    border-width:7.5px;   
+    border-color:#996515;
+    border-style: double;
+}
+
+.new-caption-area {
+    padding-top:20px;
+    padding-bottom:2em;
+    color:black;
+    font-weight:600;
+    font-size:16pt;
+    text-align: center;
+    font-family: Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
+}
+.carousel-caption {
+    color:black;
+    font-size:16pt;
+    text-align: center;
+    font-family: Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
+}
+
+div#carousel-example-generic {
+    float:none;
+    margin-right:auto;
+    margin-left:auto;
+    padding-top:20px;
+    background-color:transparent;
+}
+
+.carousel-control.right, .carousel-control.left {
+    background-color:transparent;
+    background-image:none;
+}
+
+/*events*/
+#events iframe {
+    width:865px;
+    height:600px;
+    border:0;
+    overflow:hidden; 
+    display: block;
+    margin-bottom: 10px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#events h1,h2 {
+    text-align: center;
+    color:black;
+}
+#events img{
+    margin-bottom:25px;
+    width:400px;
+    height:300px;
+    border-radius: 15px;
+}
+#events p{
+    color:black;
+    background-color:#bfbfbf;
+    padding: 10px;
+    text-align:center;
+    border-radius: 15px;
+    margin-left:75px;
+    margin-right:75px;
+}
+/*squamson*/
+table.aboutus-table {
+    width:100%;
+}
+h1.squamson {
+    text-align: center;
+    margin: 25px;
+    color:black;
+
+}
+p.aboutus {
+    margin: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:black;
+    clear: both;
+}
+div.about-us {
+    background-image: url('parchment_background.jpg');
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+
+div.about-us img {
+    width: 300px;
+    height: 235px;
+    float: left;
+    margin-left: 125px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+div.history {
+    background-image: url('parchment_background.jpg');
+    padding-top: 25px;
+    padding-bottom: 5px;
+    overflow:auto;
+}
+p.gen-history {
+    margin: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:black;
+}
+div.history img {
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin: 15px;
+    border-radius: 5px;
+}
+img#crest {
+    width: 200px;
+    height: 250px;
+    float: right;
+    margin: 15px;
+    overflow:hidden;
+    padding-bottom:10px;
+    margin-bottom: 0px;
+    border-radius: 5px;
+}
+.aboutus-img-wrap {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+/*donate*/
+#paypal-plugin {
+    height:500px;
+    width:100%;
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+#pledge-program {
+    width:40%;
+    float:left;
+    color:black;
+    background-color:transparent;
+}
+form#donate-form {
+    text-align:center;
+}
+table#donate-table {
+    margin-left: auto;
+    margin-right: auto;
+}
+h1.donate-header {
+    text-align:center;
+}
+/*donate slider*/
+div#carousel-example-generic.donate-slider {
+    margin:none;
+    position:relative;
+    float:right;
+    right:0px;
+    padding-right:10px;
+    width:50%;
+}
+.new-caption-area.donate-slider {
+    padding-top:10px;
+    color:black;
+    font-weight:500;
+    font-size:14pt;
+    text-align: center;
+    font-family: Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
+    padding-bottom:2em;
+}
+.carousel-caption.donate-slider {
+    color:black;
+    font-size:14pt;
+    text-align: center;
+    font-family: Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
+}
+.donate-slider .carousel-inner > .item > img{
+    max-height:245px;
+    float:none;
+    margin-right:auto;
+    margin-left:auto;
+    border:none;
+}
+/*main*/
+div#main-wrapper {
+    display:block;
+    float:left;
+    border-radius:10px;
+    width:25%;
+}
+#main-wrapper p {
+    text-indent:15px;
+}
+h1#main-header {
+    color:black;
+    padding:5px;
+    display:block;
+    text-align:center;
+    border-radius:15px;
+    font-weight:550;
+}
+/*main slider*/
+div#carousel-example-generic.front-slider {
+    position:relative;
+    float:left;
+    left:0px;
+    padding-right:10px;
+    width:70%;
+    margin-top:10px;
+}
+/*featured brother*/
+
+img#featured-brother-picture {
+    float:left;
+    border-radius:15px;
+    margin-left:7.5px;
+    margin-top:7.5px;
+    margin-right:7.5px;
+}
+
+#featured-brother-text{
+    color:black;
+    padding:10px;
+    margin:5px;
+}
+h1.main-bottom-header {
+    color:#996515;
+    padding-top:0px;
+    margin-top:0px;
+}
+
+#facebook-plugin-wrapper{
+    float:left;
+    margin-left:3%;
+    margin-right:3%;
+    width:40%;
+}
+.index-element {
+    background-color: #bfbfbf;
+    padding:25px;
+    border-radius:15px;
+    margin:15px;
+}
+#featured-brother-wrapper {
+    float:right;
+    margin-right:2%;
+    width:50%;
+}
+
+/*archive/songs*/
+h1.archive{
+  text-align: center;
+  padding-top: 40px;
+  color:black;
+}
+
+p.arcp{
+  text-align: center;
+  color:black;
+}
+p#songs-p{
+    text-indent:4em;
+}
+h1.sm_header {
+    color:black;
+}
+
+#songwrap{
+  padding-top: 40px;
+  color:black;
+  margin: 15px;
+}
+#songwrap p{
+  margin: 15px;
+  color:black;
+}
+
