@@ -6,13 +6,13 @@ SLIDERS:
 
 To update front slider:  
 go to front-slider folder  
-add jpeg photos named as their intended captions, with '-' instead of the normal space '&nbsb'  
+add jpeg photos named as their intended captions, with '-' instead of the normal space 
 (see current photos in folder for examples)  
 delete photos you don't want.  
   
 To update donate slider:   
 go to donate-slider folder,   
-add jpeg photos named as their intended captions, with '-' instead of the normal space '&nbsb'  
+add jpeg photos named as their intended captions, with '-' convention 
 delete photos you don't want  
 
 FEATURED BROTHER:  
@@ -20,7 +20,7 @@ FEATURED BROTHER:
 To update featured brother:  
 go to featured-brother folder  
 update featured-brother.txt to new document, also called featured-brother.txt  
-replace the current picture with the name of the current brother, using the '-' instead of '&nbsb' convention as mentioned above.   
+replace the current picture with the name of the current brother, using the '-' convention as mentioned above.   
    
 TODO:  
 slider images must be .jpg, and featured brother image must be .png - will fix this bug soon to make both read any images.    
