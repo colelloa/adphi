@@ -1,6 +1,5 @@
 All permissions according to the MIT license.
 
-
 SLIDERS:  
 *NOTE pictures in slider folders must be .jpg  
 
@@ -27,9 +26,11 @@ slider images must be .jpg, and featured brother image must be .png - will fix t
 fix weird cropping issue with css/safari  
 improve index.php to look more regular  
 make events page look better - slider?   
+add accounts for webmaster@adphiunion.com, president@adphiunion.com, etc. for all eboard  
 add contact us page  
 add philanthropy page  
 do something with pictures archive; maybe some sort of js picture selector.  
 
 NOTE:  
-any changes you make will not be live on official website - email me at agcolello@gmail.com when you make changes and i'll manually push them to the server
+any changes you make will not be live on official website - email me the zipped adphi/ folder at agcolello@gmail.com when you make changes and i'll manually push them to the server
+
