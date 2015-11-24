@@ -30,4 +30,4 @@ add contact us page
 add philanthropy page  
 
 NOTE:  
-any changes you make will not be live on official website - email me at agcolello@gmail.com when you make changes and i'll manuallt push them to the server
+any changes you make will not be live on official website - email me at agcolello@gmail.com when you make changes and i'll manually push them to the server
