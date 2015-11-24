@@ -5,20 +5,20 @@ SLIDERS:
 *NOTE pictures in slider folders must be .jpg  
 
 To update front slider:  
-go to front-slider folder  
+go to adphi/front-slider/ folder  
 add jpeg photos named as their intended captions, with '-' instead of the normal space   
 (see current photos in folder for examples)    
 delete photos you don't want.  
   
 To update donate slider:   
-go to donate-slider folder,   
+go to adphi/donate-slider/ folder,   
 add jpeg photos named as their intended captions, with '-' convention, then
 delete photos you don't want  
 
 FEATURED BROTHER:  
 *NOTE picture featured-brother must be a .png  
 To update featured brother:  
-go to featured-brother folder  
+go to adphi/featured-brother folder  
 update featured-brother.txt to new document, also called featured-brother.txt  
 replace the current picture with the name of the current brother, using the '-' convention as mentioned above.   
    
