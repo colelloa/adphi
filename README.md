@@ -15,11 +15,11 @@ add jpeg photos named as their intended captions, with '-' convention, then
 delete photos you don't want  
 
 FEATURED BROTHER:  
-*NOTE picture featured-brother must be a .png  
+*NOTE featured-brother picture must be a .png  
 To update featured brother:  
 go to adphi/featured-brother folder  
-update featured-brother.txt to new document, also called featured-brother.txt  
-replace the current picture with the name of the current brother, using the '-' convention as mentioned above.   
+update featured-brother.txt to new file, also called featured-brother.txt in the same place as the old one   
+replace the current picture a png titled with the name of the featured brother, using the '-' convention as mentioned above.   
    
 TODO:  
 slider images must be .jpg, and featured brother image must be .png - will fix this bug soon to make both read any images.    
