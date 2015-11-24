@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) [2015] ["Andrew Colello, webmaster and senior architect", "The Union Chapter of the Alpha Delta Phi"]
+Copyright (c) 2015 The Union Chapter of the Alpha Delta Phi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
