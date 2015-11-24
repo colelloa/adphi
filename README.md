@@ -25,6 +25,7 @@ replace the current picture with the name of the current brother, using the '-' 
 TODO:  
 slider images must be .jpg, and featured brother image must be .png - will fix this bug soon to make both read any images.    
 fix weird cropping issue with css/safari  
+improve index.php to look more regular  
 make events page look better - slider?   
 add contact us page  
 add philanthropy page  
