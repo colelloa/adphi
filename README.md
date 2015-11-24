@@ -6,7 +6,7 @@ SLIDERS:
 
 To update front slider:  
 go to front-slider folder  
-add jpeg photos named as their intended captions, with '-' instead of the normal space 
+add jpeg photos named as their intended captions, with '-' instead of the normal space   
 (see current photos in folder for examples)  
 delete photos you don't want.  
   
