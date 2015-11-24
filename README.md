@@ -1,6 +1,6 @@
 All permissions according to the MIT license.
 
-developers - see todo.txt to help me out.  
+PROGRAMMERS - see todo.txt to help me out.  
    
 SLIDERS:  
 *NOTE pictures in slider folders must be .jpg  
